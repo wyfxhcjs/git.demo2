@@ -1,11 +1,5 @@
 hello git!#欢迎来到我的世界
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
+
 hello git!
 hello git!
 hello git!
