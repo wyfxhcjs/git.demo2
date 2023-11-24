@@ -2,6 +2,7 @@
 
 int main() {
 	printf("hello word!");
+	printf("wyfxhcjs,aiyo!");
 
 
 
