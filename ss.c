@@ -3,6 +3,8 @@
 int main() {
 	printf("hello word!");
 	printf("wyxbanle");
+	printf("wyfxhcjs,aiyo!");
+	printf("bailanle~");
 
 
 
